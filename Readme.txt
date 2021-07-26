@@ -1,0 +1,5 @@
+-- Sim, Os nomes dos programas e arquivos são bem zuados --
+-- Nenhum desses projetos são realmente usados em algum lugar, todos os programas e codigos sao de criação de Victor Maciel, somente para fins de estudo --
+-- Caso alguem tenha alguma ideia de melhorar qualquer codigo de iniciante meu, tem total liberdade para melhora-lo --
+-- Caso for alterar alguma parte do programa, peço, que se puder, compile e envie o arquivo .exe atualizado, o codigo fonte e a descrição do que foi alterado --
+-- Obrigado por ler, qualquer coisa, entre em contato! --
